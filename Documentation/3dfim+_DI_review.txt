@@ -1,0 +1,19 @@
+Software Requirements Specification for 3dfim+
+Nejad & Smith 2017
+
+Brief review and comments by Dean Inglis 
+
+pg. 13 spelling "literarure" 
+pg. 14 grammatic "...systems related to the medical imaging."
+  should read "...systems related to medical imaging." etc.
+  and further " ...work with the medical images." 
+  should read "...work with medical images."
+pg. 25 use of 'd' instead of 'n' ?
+pg. 30 voxel definition: slice consists of m x n not n x n voxels ?
+
+There is no overview of what the MRI signal is at each voxel for fMRI.
+There is no discussion as to the usefulness of the computed results (eg.,
+deviation from baseline signal indicates localized brain activity ? etc.).
+Perhaps it is not the goal of software specification, but to the reader
+a contextual discussion might be of interest.  Otherwise, a very
+competent, logically organized and thorough specification.
